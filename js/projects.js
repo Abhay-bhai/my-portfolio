@@ -18,7 +18,7 @@ const projectList = [
         techStack: ["Html ,Css, and JavaScript"],
         image: "assets/cakery-website.png",
         liveLink: "https://abhay-bhai.github.io/cakery-website/",
-        githubLink: "https://github.com/Abhay-bhai/cakery-website"
+        githubLink: "https://abhay-bhai.github.io/bakery-site/"
     },
     // {
     //     id: 3,
