@@ -17,8 +17,8 @@ const projectList = [
         description: "A modern, fully responsive Cakery ordering landing page designed to provide a seamless user experience. This project showcases my ability to translate a creative design into a functional website using front-end",
         techStack: ["Html ,Css, and JavaScript"],
         image: "assets/cakery-website.png",
-        liveLink: "https://abhay-bhai.github.io/cakery-website/",
-        githubLink: "https://abhay-bhai.github.io/bakery-site/"
+        liveLink: "https://abhay-bhai.github.io/bakery-site/",
+        githubLink: "https://github.com/Abhay-bhai/bakery-site"
     },
     // {
     //     id: 3,
